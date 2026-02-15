@@ -1,6 +1,6 @@
 # Messenger 
 
-A real-time messaging web application built with React, Vite, Express, MongoDB, and Socket.IO. Users can sign up, chat with others, and send text or images in real-time.
+A real-time messaging web application built with React, Vite, Express, MongoDB, and Socket.IO. Users can sign up, chat with others, and send text or images in real-time. Either locally or https://messenger-esbc.onrender.com
 
 ## Features
 
