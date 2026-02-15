@@ -17,7 +17,9 @@ A real-time messaging web application built with React, Vite, Express, MongoDB, 
 - Real-time: Socket.IO
 - Cloud Storage: Cloudinary
 
-## Setup .env file
+### Setup .env file
+
+```js
 MONGODB_URI=...
 PORT=5001
 JWT_SECRET=...
@@ -27,10 +29,16 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
+```
 
-## Build the app
+### Build the app
+
+```shell
 npm run build
+```
 
-## Start the app
+### Start the app
+
+```shell
 npm start
-
+```
